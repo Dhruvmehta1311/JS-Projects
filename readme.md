@@ -36,6 +36,29 @@ Welcome to the JavaScript Projects repository! Here you'll find a collection of 
 - PiP functionality is only supported on desktop browsers.
 - Live Link: [Picture in Picture Mode](https://picture-in-picture-two.vercel.app/)
 
+## Live Links
+
+- [Quote Generator](https://quote-generator-two-azure.vercel.app/)
+- [Jokes Teller](https://joke-teller-delta.vercel.app/)
+- [Picture in Picture](https://picture-in-picture-two.vercel.app/)
+- [Infinite Scroll](https://infinity-scroll-henna.vercel.app/)
+- [Weather App](https://weather-app-two-zeta-69.vercel.app/)
+
+## APIs Used
+
+- Joke Teller Project:
+  - Joke API: [Joke API](https://v2.jokeapi.dev/)
+  - TTS API: [Voicerss TTS API](https://www.voicerss.org/api/)
+
+- Weather App:
+  - Weather API: [WeatherAPI.com](https://www.weatherapi.com/)
+
+- Quote Generator:
+  - Quote API: [Type.fit Quotes API](https://type.fit/api/quotes)
+
+- Unsplash Infinite Scroll:
+  - Unsplash API: [Unsplash API](https://api.unsplash.com/)
+  
 ## Usage
 
 Each project folder contains the necessary files to run the project. Simply navigate to the project folder and open the `index.html` file in a web browser to view the project.
